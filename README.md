@@ -1,8 +1,14 @@
 📊 AtliQ Hardware – Power BI Business Dashboard
-🚀 Overview
 
+🚀 Overview
 An interactive Power BI dashboard delivering end-to-end business insights for AtliQ Hardware across Sales, Finance, Marketing, and Supply Chain.
 Designed to help stakeholders make data-driven decisions using real-time KPIs and trend analysis.
+
+![image alt](https://github.com/Anubhav-Anand/AtliQ-BI-Project/blob/53023be23261e4996eed2608f9da4c81bc9cba33/Executive%20view.png)
+![image alt](https://github.com/Anubhav-Anand/AtliQ-BI-Project/blob/53023be23261e4996eed2608f9da4c81bc9cba33/Finance%20View.png)
+![image alt](https://github.com/Anubhav-Anand/AtliQ-BI-Project/blob/53023be23261e4996eed2608f9da4c81bc9cba33/Marketing%20view.png)
+![image alt](https://github.com/Anubhav-Anand/AtliQ-BI-Project/blob/53023be23261e4996eed2608f9da4c81bc9cba33/Sales%20View.png)
+![image alt](https://github.com/Anubhav-Anand/AtliQ-BI-Project/blob/53023be23261e4996eed2608f9da4c81bc9cba33/Supply%20Chain%20View.png)
 
 
 
